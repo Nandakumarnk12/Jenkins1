@@ -3,3 +3,4 @@ node {
     stage('git scm') {
        echo "this is git file"
     }
+}
